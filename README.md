@@ -8,5 +8,5 @@ Kliendilt kirjeldus:
 
 Ok tegelt tuleb see APEX rakendusse integreerida ka aga selle jaoks on meil tööjõud olemas.
 
-Vaja sellist asja:
+###Vaja sellist asja:
 Esialgne rakendus siis meie oma disainiga, mis kuvab Windows tabletis kaamera pildi (kuskil on nupp mis teeb pilti). Kui nupule vajutatakse siis tehakse foto, mis saadetakse kohalikku OpenALPR teenusesse ja saadakse vastena numbrimärk. Kui numbrimärk käes siis avame browseri uue lehekülje, kus on textfield milles on see numbrimärk täidetud.
